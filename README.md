@@ -1,6 +1,6 @@
 # TileDB
 
-[![Travis](https://travis-ci.org/OmicsDataAutomation/TileDB.svg?branch=master)](https://travis-ci.org/OmicsDataAutomation/TileDB)
+[![GitHub Actions](https://github.com/OmicsDataAutomation/TileDB/workflows/Basic%20workflow%20to%20build%20and%20test%20TileDB/badge.svg)]
 [![codecov](https://codecov.io/gh/OmicsDataAutomation/TileDB/branch/master/graph/badge.svg)](https://codecov.io/gh/OmicsDataAutomation/TileDB)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
