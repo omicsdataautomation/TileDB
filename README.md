@@ -1,6 +1,5 @@
 # TileDB
 
-<a href="https://github.com/OmicsDataAutomation/TileDB/actions"><img alt="GitHub Actions status" src="https://github.com/OmicsDataAutomation/TileDB/workflows/.github/workflows/basic.yml/badge.svg"></a>
 [![actions](https://github.com/OmicsDataAutomation/TileDB/workflows/.github/workflows/basic.yml/badge.svg)](https://github.com/OmicsDataAutomation/TileDB/actions)
 [![codecov](https://codecov.io/gh/OmicsDataAutomation/TileDB/branch/master/graph/badge.svg)](https://codecov.io/gh/OmicsDataAutomation/TileDB)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
